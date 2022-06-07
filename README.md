@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yotsakok
-- 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Data Engineer
+- 👋 Hi, I’m Yotsakok Kengkla
+- 👀 I’m worked in Data Engineer role
+- 🌱 I’m currently learning AI and Machine Learning
 
 <!---
 Yotsakok/Yotsakok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
